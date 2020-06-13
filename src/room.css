@@ -1,0 +1,40 @@
+
+
+
+.room , body html{
+
+    height: 100vh;
+    margin: 0px;
+    text-align: center;
+}
+
+.room{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.lit{
+
+    background-color: white;
+    color: black;
+}
+
+.dark{
+
+    background-color: black;
+    color: white;
+}
+.row{
+
+    display: flex;
+    
+}
+
+.row > button{
+
+    margin: 5px;
+    
+}
